@@ -1,9 +1,9 @@
 # feedbacks-vuetify
 <br>
 This is front part of full-stack SPA allow user to create own full feedback(s), add picture etc. <br>
-Here is uses Vue, Vuex, Vuetify.<br>
+Here uses Vue, Vuex, Vuetify.<br>
 As backend use "feedbacks-backend" repository.<br>
-All data store in PostgresQL DB. However, backend part is written using node.js+bookshelf.js, that allows to choose another DBMS.<br>
+All data store in PostgresQL DB. However, backend is written using node.js+bookshelf.js, that allows to choose another DBMS.<br>
 Expected soon next functional: Authentication, Forgot password and e-mail recover, Feedbacks filter.<br>
 <p>
 <img src="public/img/Screenshot_1.png" width="60%" height="auto" />
